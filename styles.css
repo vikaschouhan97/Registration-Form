@@ -27,3 +27,10 @@
   .valid-feedback {
     display: block;
   }
+
+ @media only screen and (max-width: 600px) {
+    .registration-form {
+        margin: auto;
+        width: 80%;
+      }
+  }
