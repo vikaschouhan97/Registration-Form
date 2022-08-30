@@ -1,0 +1,29 @@
+*{
+    background-color: #F1F1F1;
+}
+
+.containerr{
+    margin: 50px auto;
+   }
+
+  .registration-form {
+    margin: auto;
+    width: 50%;
+  }
+
+  .col-12{
+  text-align: center;
+  }
+  
+  .heading{
+  text-align: center;
+  margin: 50px auto;
+  }
+
+  .title {
+    padding: 10px;
+  }
+
+  .valid-feedback {
+    display: block;
+  }
